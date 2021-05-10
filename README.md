@@ -1,6 +1,6 @@
 ### Hola 👋, my name is Edmundo
-#### I am SRE and DevSecOps Junior.
-![I am SRE and DevSecOps Junior.](![github](/images/icon.png))
+#### I am a sysadmin on my way to being an SRE
+![Sysadmin](![github](/images/icon.png))
 
 I am a person who likes order, I have no problem working under pressure and I like to work in a team, I love to learn new technologies and implement them, I am fascinated by GNU / LINUX and open source tools.
 On this page there is a compilation of procedures that I have developed and tested, hoping to help those starting out in the world of Systems Administrator and DevSecOps. 
