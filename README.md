@@ -1,14 +1,24 @@
-### Hi there 👋
+### Hola 👋, my name is Edmundo
+#### I am SRE and DevSecOps Junior.
+![I am SRE and DevSecOps Junior.](![github](/images/icon.png))
 
-**GorillaTi/GorillaTi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a person who likes order, I have no problem working under pressure and I like to work in a team, I love to learn new technologies and implement them, I am fascinated by GNU / LINUX and open source tools.
+On this page there is a compilation of procedures that I have developed and tested, hoping to help those starting out in the world of Systems Administrator and DevSecOps. 
 
-Here are some ideas to get you started:
+Habilidades: Linux/Proxmox/Zasbbix/Grafana/Prometheus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Estoy trabajando en G.A.M.S. 
+- 🌱 Estoy aprendiendo Vagrant, Ansiable, Docker 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/GorillaTi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eca01//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ecespedesa//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/EdmundoCespedes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gorillati.github.io/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/GorillaTi)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/GorillaTi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/GorillaTi)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/GorillaTi)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/GorillaTi)  
