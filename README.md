@@ -1,6 +1,6 @@
 ### Hola 👋, my name is Edmundo
 #### I am a sysadmin on my way to being an SRE
-![Sysadmin](![github](/images/icon.png))
+![Sysadmin](![github](/images/banner_hithub.png))
 
 I am a person who likes order, I have no problem working under pressure and I like to work in a team, I love to learn new technologies and implement them, I am fascinated by GNU / LINUX and open source tools.
 On this page there is a compilation of procedures that I have developed and tested, hoping to help those starting out in the world of Systems Administrator and DevSecOps. 
@@ -17,8 +17,9 @@ Habilidades: Linux/Proxmox/Zasbbix/Grafana/Prometheus
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/GorillaTi)](https://github.com/anuraghazra/github-readme-stats)
 
+<--- !
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/GorillaTi)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/GorillaTi)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/GorillaTi)  
+--->
+![Profile views](https://github.com/GorillaTi)  
