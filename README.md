@@ -1,4 +1,4 @@
-### Hola 👋, my name is Edmundo
+### Hi 👋, my name is Edmundo
 #### 💻 I am a sysadmin on my way to being an SRE
 ![Sysadmin](https://github.com/GorillaTi/GorillaTi/blob/main/images/banner_hithub.png)
 
