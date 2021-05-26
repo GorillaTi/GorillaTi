@@ -1,5 +1,6 @@
+### `</Gorilla TI>`
 ### Hi 👋, my name is Edmundo
-#### `</GTI>` I am a sysadmin on my way to being an SRE
+#### I am a sysadmin on my way to being an SRE
 <p align="center">
 <img width="100%"
      src="https://github.com/GorillaTi/GorillaTi/blob/main/images/banner_hithub.png?raw=true")
