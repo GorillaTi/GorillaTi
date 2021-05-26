@@ -31,5 +31,6 @@ On this page there is a compilation of procedures that I have developed and test
 <img src="https://github-readme-stats.vercel.app/api?username=GorillaTi&&show_icons=true&title_color=ffdf00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 💻 **`</Profile Statistics>`**:
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=GorillaTi&amp;color=blueviolet&amp;style=flat-square">
+</p>
