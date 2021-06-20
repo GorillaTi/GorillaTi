@@ -9,16 +9,16 @@
 I am a person who likes order, I have no problem working under pressure and I like to work in a team, I love to learn new technologies and implement them, I am fascinated by GNU / LINUX and open source tools.
 On this page there is a compilation of procedures that I have developed and tested, hoping to help those starting out in the world of Systems Administrator and DevSecOps. 
 
-**🛠️ `</Skills>`**
+🛠️ **`</Skills>`**
 
 - Linux/Proxmox/Zasbbix/Grafana/Prometheus
 
-**✒️ `</About Me!!!>`**
+✒️ **`</About Me!!!>`**
 
 - 🔭 I am working at G.A.M.S. 
 - 🌱 I am learning Vagrant, Ansible, Docker 
 
-**:busts_in_silhouette: `</My social networks>`**
+:busts_in_silhouette: **`</My social networks>`**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GorillaTi)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eca01//)
@@ -26,9 +26,13 @@ On this page there is a compilation of procedures that I have developed and test
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/EdmundoCespedes)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gorillati.github.io/)  
 
-:octocat: **`</My Github Statistics>`**: 
+:octocat: **`</My Github Statistics>`**
 
 <img src="https://github-readme-stats.vercel.app/api?username=GorillaTi&&show_icons=true&title_color=ffdf00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+:currency_exchange: ​ **`</ Programming Languages>`**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorillaTI&amp;layout=compact&amp;theme=react&amp;hide_border=true">
 
 💻 **`</Profile Statistics>`**:
 <p align="center">
