@@ -30,14 +30,15 @@ On this page there is a compilation of procedures that I have developed and test
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-
--   Zabbix /Grafana /Prometheus
+<a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/zabbix-colored.svg" width="36" height="36" alt="Zabbix" /></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/grafana-colored.svg" width="36" height="36" alt="Grafana" /></a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/prometheus-colored.svg" width="36" height="36" alt="Prometheus" /></a>
 
 #### :books: **`</Learning>`**
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/ansible-colored.svg" width="36" height="36" alt="Ansible" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 
 #### :rocket: **`</My projects>`**
 
