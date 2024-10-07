@@ -24,7 +24,6 @@ On this page there is a compilation of procedures that I have developed and test
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" /></a>
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/neovim-colored.svg" width="36" height="36" alt="Neovim" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -33,11 +32,19 @@ On this page there is a compilation of procedures that I have developed and test
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 
--   Proxmox/ Zasbbix /Grafana /Prometheus
+-   Zabbix /Grafana /Prometheus
+
+#### :books: **`</Learning>`**
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/ansible-colored.svg" width="36" height="36" alt="Ansible" /></a>
+
+#### :rocket: **`</My projects>`**
+
+-   [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GorillaTi)
 
 #### :busts_in_silhouette: **`</My social networks>`**
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GorillaTi) 
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://gorillati.github.io/) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eca01/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ed.cespedesa@gmail.com) 
