@@ -42,12 +42,18 @@ On this page there is a compilation of procedures that I have developed and test
 
 #### :rocket: **`</My projects>`**
 
--   [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GorillaTi)
+[![Guias](https://img.shields.io/badge/guias-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GorillaTi/guias)
+![GitHub last commit](https://img.shields.io/github/last-commit/GorillaTi/guias?display_timestamp=author&style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/GorillaTi/Guias?style=flat-square)
+
+[![bkpxdb](https://img.shields.io/badge/bkpxdb-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GorillaTi/bkpxdb)
+![GitHub last commit](https://img.shields.io/github/last-commit/GorillaTi/bkpxdb?display_timestamp=author&style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/GorillaTi/bkpxdb?style=flat-square)
 
 #### :busts_in_silhouette: **`</My social networks>`**
 
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://gorillati.github.io/) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eca01/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eksys/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ed.cespedesa@gmail.com) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ecespedesa)
 
