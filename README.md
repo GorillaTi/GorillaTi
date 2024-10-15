@@ -12,8 +12,6 @@
 I am a person who likes order, I have no problem working under pressure and I like to work in a team, I love to learn new technologies and implement them, I am fascinated by GNU / LINUX and open source tools.
 On this page there is a compilation of procedures that I have developed and tested, hoping to help those starting out in the world of Systems Administrator and DevSecOps.
 
--   🧠 I am learning Vagrant, Ansible and Docker.
-
 #### 🛠️ **`</Skills>`**
 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
@@ -34,7 +32,7 @@ On this page there is a compilation of procedures that I have developed and test
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/grafana-colored.svg" width="36" height="36" alt="Grafana" /></a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/prometheus-colored.svg" width="36" height="36" alt="Prometheus" /></a>
 
-#### :books: **`</Learning>`**
+#### 🧠 **`</I am learning >`**
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/ansible-colored-dark.svg" width="36" height="36" alt="Ansible" /></a>
@@ -57,7 +55,7 @@ On this page there is a compilation of procedures that I have developed and test
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ed.cespedesa@gmail.com) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ecespedesa)
 
-#### :octocat: **`</My Github Stats>`**
+#### :octocat: **`</My github stats>`**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=GorillaTi&show_icons=true&locale=en&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorillaTi&layout=compact&locale=en&theme=chartreuse-dark)
@@ -68,4 +66,4 @@ On this page there is a compilation of procedures that I have developed and test
 
 #### 💻 **`</Gorilla TI>`**
 
-![Counter](https://komarev.com/ghpvc/?username=GorillaTi&style=for-the-badge&abbreviated=true)<a href="https://www.github.com/gorillati" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/gorillati?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><img src="https://img.shields.io/twitter/follow/ecespedesa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![Counter](https://komarev.com/ghpvc/?username=GorillaTi&style=for-the-badge&abbreviated=true)<a href="https://www.github.com/gorillati" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/gorillati?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
