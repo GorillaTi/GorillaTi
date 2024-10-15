@@ -37,7 +37,7 @@ On this page there is a compilation of procedures that I have developed and test
 #### :books: **`</Learning>`**
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/ansible-colored.svg" width="36" height="36" alt="Ansible" /></a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/ansible-colored-dark.svg" width="36" height="36" alt="Ansible" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/GorillaTi/means/refs/heads/main/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 
 #### :rocket: **`</My projects>`**
